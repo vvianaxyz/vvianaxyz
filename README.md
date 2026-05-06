@@ -47,7 +47,7 @@ Sou organizada, dedicada e estou sempre em busca de aprender algo novo.
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
-  <a href="www.linkedin.com/in/vitória-viana-463706406">
+  <a href="https://www.linkedin.com/in/vit%C3%B3ria-viana-463706406/">
     <img src="https://img.shields.io/badge/LinkedIn-3B6EA5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
